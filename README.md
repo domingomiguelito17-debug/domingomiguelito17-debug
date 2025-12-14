@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=6000&lines=Bossing+Kamusta+ang+buhay+buhay!+👋;I'm+Miguelito!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=6000&lines=+Bossing+Kamusta+ang+buhay+buhay!+👋;I'm+Miguelito!" />
 </h1>
 
 ### A CS student.

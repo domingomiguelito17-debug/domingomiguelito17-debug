@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=6000&pause=1000&lines=Bossing+Kamusta+ang+buhay+buhay+;I'm+Miguelito!😎😎" />
 </h1>
 
-### A CS student.
+### A 3rd year CS student, novice in using Github so please bare with me. 
 - 🌱 I’m currently learning **[Github](https://github.com/)**
 - 💬 Have a recommendation for me? Feel free to open an issue [here](https://github.com/domingomiguelito17-debug/domingomiguelito17-debug/issues).
 
